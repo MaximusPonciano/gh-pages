@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","42987","Should walk magalu from PDP to PIX once","Complete offer journey","2026-09-18","passed","2026-09-18","","","",""
-"","36733","Should walk giftcard from PDP to PIX once","Complete offer journey","2026-09-18","passed","2026-09-18","","","",""
-"","36708","Should walk seller3p from PDP to PIX once","Complete offer journey","2026-09-18","passed","2026-09-18","","","",""
-"","47176","Should walk o2o from PDP to PIX once","Complete offer journey","2026-09-18","passed","2026-09-18","","","",""
-"","40085","Should walk mapfre from PDP to PIX once","Complete offer journey","2026-09-18","failed","2026-09-18","","","",""
